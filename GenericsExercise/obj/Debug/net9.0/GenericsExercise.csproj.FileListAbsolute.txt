@@ -1,0 +1,14 @@
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\bin\Debug\net9.0\GenericsExercise.exe
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\bin\Debug\net9.0\GenericsExercise.deps.json
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\bin\Debug\net9.0\GenericsExercise.runtimeconfig.json
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\bin\Debug\net9.0\GenericsExercise.dll
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\bin\Debug\net9.0\GenericsExercise.pdb
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.AssemblyInfoInputs.cache
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.AssemblyInfo.cs
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.dll
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\refint\GenericsExercise.dll
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.pdb
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\GenericsExercise.genruntimeconfig.cache
+C:\Users\efe19\OneDrive\Desktop\Erasmus\Adv. Programming\fourth week\GenericsExercise\obj\Debug\net9.0\ref\GenericsExercise.dll
